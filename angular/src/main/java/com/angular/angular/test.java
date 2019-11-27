@@ -1,5 +1,6 @@
 package com.angular.angular;
 
-public class test {
+public class test 
+{
 
 }
